@@ -7,6 +7,8 @@ My primary focus is on frontend development, where I specialize in building inte
 
 I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
 
+I'm currently very focused on delving into AI
+
 
 <div style ="margin-top: 20px; text-align: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
