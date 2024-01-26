@@ -3,11 +3,9 @@
  
 
 # 🚀
-My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript and Typescript, and I'm proficient in popular frameworks and libraries such as React and Anime.js.
+Passionate about creating interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns.
 
-I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
-
-I'm currently very focused on delving into AI
+Outside of the professional environment, I have a unique passion: creating “art” using exclusively CSS. This activity not only improves my technical skills but also allows me to combine programming and creativity in a unique and captivating way.
 
 
 <div style ="margin-top: 20px; text-align: center;">
