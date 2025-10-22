@@ -1,6 +1,5 @@
 # Hi There, I am Leonardo Moreno 👋
 
- ![Linkedin: Leonardo M](https://img.shields.io/badge/-Leonardo%20M-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-moreno-4b1465242/)
 
 Rookie programmer
 
